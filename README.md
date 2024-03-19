@@ -1,10 +1,8 @@
-### 👋 Hi, I’m @btynha
-- 👀 I’m interested in learning new things.
-- 🌱 I’m currently learning python and Azure platform.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+### 👋 Hi, I’m Betty. 
+
+- 🌱 I'm a Data Delivery Manager sharing all about my journey in learning new things. 
+- 💞️ I’m currently learning all about cloud computing in Azure
+- ⚡ But most of my background was developing SAS and SQL codes
 
 <!---
 btynha/btynha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
