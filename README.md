@@ -2,7 +2,7 @@
 
 - 🌱 I'm a Data Delivery Manager sharing all about my journey in learning new things
 - 💞️ I’m currently learning all about cloud computing in Azure
-- ⚡ But most of my background was developing SAS and SQL codes
+- ⚡ But most of my background was developing SAS and SQL codes in the finance industry
 
 <!---
 btynha/btynha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
